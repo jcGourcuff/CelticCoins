@@ -1,0 +1,5 @@
+East_England Corieltauvi COR Iceni ICE
+North_of_the_Thames Trinovantes-Catuvellauni TRI
+South_of_the_Thames Atrebates ATR Cantii CAN
+South_West_England Durotriges DUR
+West_England Dobunni DOB
